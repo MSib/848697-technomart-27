@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Михаил Мясников](https://up.htmlacademy.ru/htmlcss/27/user/848697).
-* Наставник: `Неизвестно`.
+* Наставник: [keksobot](https://htmlacademy.ru/).
 
 ---
 
