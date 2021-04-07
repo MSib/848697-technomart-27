@@ -1,3 +1,5 @@
+# [Демо на GitHub Pages](https://msib.github.io/HTML-Academy__technomart/)
+
 # Личный проект «Техномарт»
 
 * Студент: [Михаил Мясников](https://up.htmlacademy.ru/htmlcss/27/user/848697).
